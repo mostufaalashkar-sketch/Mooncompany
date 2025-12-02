@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>مشروعي على تلغرام</title>
+  <style>
+    body {
+      font-family: Tahoma, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #0088cc; /* لون شعار تلغرام */
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #0088cc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a:hover {
+      background-color: #006699;
+    }
+  </style>
+</head>
+<body>
+  <h1>مرحباً بك 👋</h1>
+  <p>هذا مثال لصفحة بسيطة يمكن استخدامها كرابط لمشروعي على تلغرام.</p>
+  <a href="https://t.me/your_bot_username" target="_blank">جرب البوت على تلغرام</a>
+</body>
+</html>
